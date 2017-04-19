@@ -1,6 +1,6 @@
 # menu
 
-> y
+> scroll-menu 
 
 ## Build Setup
 
